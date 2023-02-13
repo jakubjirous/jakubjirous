@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.jakubjirous.cz/" target="_blank">
-<img src="https://user-images.githubusercontent.com/10185306/206885923-b4f31732-7f44-4e42-9ffc-ef36c1a6aa9a.png" alt="GitHub Cover">
+<img src="https://user-images.githubusercontent.com/10185306/218591929-481e8eb2-9734-4664-879c-c3536144c3f5.png" alt="GitHub Cover">
 </a>   
 </p>
 
