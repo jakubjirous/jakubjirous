@@ -21,10 +21,8 @@
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat" alt="Webpack Badge" />
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat" alt="Next.js Badge" />
 <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat" alt="Vercel Badge" />
-<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Heroku Badge" />
-  
+<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Heroku Badge" />  
 <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Astro Badge" />
-
 <img src="https://img.shields.io/badge/Vue-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=flat" alt="Vue Badge" />
 <img src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF&style=flat" alt="Vuetify Badge" />
 <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white" alt="Vite Badge" />
@@ -42,10 +40,6 @@
 <img src="https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=flat" alt="JetBrains Badge" />
 <img src="https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff&style=flat" alt="WebStorm Badge" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat" alt="Figma Badge" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat" alt="Adobe Photoshop Badge" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat" alt="Adobe Illustrator Badge" />
-<img src="https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=000&style=flat" alt="Sketch Badge" />
-<img src="https://img.shields.io/badge/InVision-F36?logo=invision&logoColor=fff&style=flat" alt="InVision Badge" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git Badge" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat" alt="Jenkins Badge" />
