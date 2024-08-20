@@ -21,8 +21,7 @@
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat" alt="Webpack Badge" />
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat" alt="Next.js Badge" />
 <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat" alt="Vercel Badge" />
-<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Heroku Badge" />  
-<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Astro Badge" />
+<img src="https://img.shields.io/badge/Astro-430098?logo=astro&logoColor=fff&style=flat" alt="Astro Badge" />
 <img src="https://img.shields.io/badge/Vue-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=flat" alt="Vue Badge" />
 <img src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF&style=flat" alt="Vuetify Badge" />
 <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white" alt="Vite Badge" />
@@ -31,8 +30,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3 Badge" />
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind Badge" />  
 <img src="https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=flat" alt="styled-components Badge" />
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind Badge" />  
+<img src="https://img.shields.io/badge/Radix-%23000000.svg?logo=radix-ui&logoColor=white&style=flat" alt="Radix Badge" />  
+<img src="https://img.shields.io/badge/Framer_Motion-%23303030.svg?logo=framer&logoColor=white&style=flat" alt="Framer Motion Badge" />  
 <img src="https://img.shields.io/badge/Material%20Design-757575?logo=materialdesign&logoColor=fff&style=flat" alt="Material Design Badge" />
 <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=fff&style=flat" alt="Material UI Badge" />
 <img src="https://img.shields.io/badge/ESlint-3A33D1?logo=eslint&logoColor=fff&style=flat" alt="ESlint UI Badge" />  
