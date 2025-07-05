@@ -1,8 +1,10 @@
+<!--
 <p align="center">
 <a href="https://www.jakubjirous.cz/" target="_blank">
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/10185306/257265052-60520590-06a0-4170-b54d-667fb63b2e0e.png" alt="GitHub Cover">
 </a>   
 </p>
+-->
 
 <br />
 <br />
