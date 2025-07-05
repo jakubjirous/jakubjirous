@@ -5,11 +5,6 @@
 </a>   
 </p>
 -->
-
-<br />
-<br />
-<br />
-
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React Badge" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="TypeScript Badge" />
